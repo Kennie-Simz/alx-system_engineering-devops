@@ -1,6 +1,6 @@
 # Networking Basics
 
-## CONCEPTs
+## CONCEPTS
 
 - OSI Model
 - Different types of Network
